@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BankGUI
+comment0.text=\r\n\ \ \ \ GUI\ SUMMARY\r\n\ \ \ \ The\ components\ are\ added\ to\ three\ different\ frames\ respecctively\r\n\ \ \ \ MainFrame\ contains\ all\ the\ components\ for\ adding\ debit\ card,\ credit\ card\ and\ the\ buttons\ to\ open\ three\ new\ frames\r\n\ \ \ \ They\ can\ be\ switched\ with\ buttons\r\n\ \ \ \ With\ this\ procedure\ we\ can\ group\ the\ related\ elements\ with\ eachother\ and\ make\ it\ much\ easier\ to\ review\ the\ code\r\n\ \ \ \r\n\ \ \ \ MULTIPLE\ FRAMES\ CONCEPT\r\n\ \ \ \ When\ we\ run\ main\ method\ only\ MainFrame\ is\ dispalyed\r\n\ \ \ \ Other\ frames\ for\ making\ withdrawal,\ granting\ and\ canceling\ credit\ card\ have\ false\ visibility\r\n\ \ \ \ when\ respective\ button\ present\ in\ MainFrame\ is\ clicked\ the\ frames\ for\ similar\ operation\ is\ opened\r\n\ \ \ \ \r\n\ \ \ \ USE\ OF\ BOOLEAN\r\n\ \ \ \ in\ actionPerformed()\ method,\ boolean\ is\ used\ in\ most\ of\ the\ else\ if\ \r\n\ \ \ \ this\ is\ done\ in\ order\ to\ check\ if\ the\ there\ were\ any\ objects\ present\ in\ the\ arraylist\ of\ respective\ class\r\n\ \ \ \ it\ is\ required\ when\ we\ have\ a\ code\ outside\ the\ iterator\r\n
+comment1.params=
+comment1.target=BankGUI()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
